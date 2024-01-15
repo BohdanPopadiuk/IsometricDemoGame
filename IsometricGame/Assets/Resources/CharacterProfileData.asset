@@ -18,7 +18,22 @@ MonoBehaviour:
   - Robert
   - Ilon
   - Mark
+  - Steve
+  - Max
   avatars:
-  - {fileID: 10901, guid: 0000000000000000f000000000000000, type: 0}
-  - {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
-  - {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: -2090353682, guid: 4f8c1d448e55eec4bbd3174989a34ed0, type: 3}
+  - {fileID: 1553556968, guid: 4f8c1d448e55eec4bbd3174989a34ed0, type: 3}
+  - {fileID: -758192113, guid: 4f8c1d448e55eec4bbd3174989a34ed0, type: 3}
+  - {fileID: 1776696955, guid: 4f8c1d448e55eec4bbd3174989a34ed0, type: 3}
+  - {fileID: -376087862, guid: 4f8c1d448e55eec4bbd3174989a34ed0, type: 3}
+  - {fileID: -874697496, guid: 4f8c1d448e55eec4bbd3174989a34ed0, type: 3}
+  - {fileID: -2129497368, guid: 4f8c1d448e55eec4bbd3174989a34ed0, type: 3}
+  - {fileID: -188430832, guid: 4f8c1d448e55eec4bbd3174989a34ed0, type: 3}
+  - {fileID: 1567640198, guid: 4f8c1d448e55eec4bbd3174989a34ed0, type: 3}
+  - {fileID: 1789857532, guid: 4f8c1d448e55eec4bbd3174989a34ed0, type: 3}
+  - {fileID: 1139975507, guid: 4f8c1d448e55eec4bbd3174989a34ed0, type: 3}
+  - {fileID: -1435064276, guid: 4f8c1d448e55eec4bbd3174989a34ed0, type: 3}
+  - {fileID: 1292187655, guid: 4f8c1d448e55eec4bbd3174989a34ed0, type: 3}
+  - {fileID: -800652562, guid: 4f8c1d448e55eec4bbd3174989a34ed0, type: 3}
+  - {fileID: 170578209, guid: 4f8c1d448e55eec4bbd3174989a34ed0, type: 3}
+  - {fileID: 723203214, guid: 4f8c1d448e55eec4bbd3174989a34ed0, type: 3}

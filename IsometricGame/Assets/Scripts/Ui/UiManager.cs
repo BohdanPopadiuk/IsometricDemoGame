@@ -21,10 +21,17 @@ namespace Ui
 
         private void CreateCharacterButton(CharacterController character)
         {
+            //create a button for each person and add a text description
             int characterIndex = characterButtonsParent.childCount;
+            
             Button characterButton = Instantiate(characterButtonPrefab, characterButtonsParent);
             characterButton.onClick.AddListener(() => GameController.SelectCharacter?.Invoke(characterIndex));
-            characterButton.GetComponentInChildren<TextMeshProUGUI>().text = character.GetCharacterInfo();
+
+            Image image = characterButton.GetComponent<Image>();
+            image.sprite = character.Profile.GetAvatar;
+            
+            TextMeshProUGUI text = characterButton.transform.GetChild(0).GetComponentInChildren<TextMeshProUGUI>();
+            text.SetText(character.GetCharacterInfo());
         }
     }
 }

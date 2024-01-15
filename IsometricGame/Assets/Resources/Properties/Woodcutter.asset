@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e9299b7aff794f8b84db9a55f640c516, type: 3}
   m_Name: Woodcutter
   m_EditorClassIdentifier: 
-  minSpeed: 0
-  maxSpeed: 0
-  minStamina: 0
-  maxStamina: 0
-  minManeuverability: 0
-  maxManeuverability: 0
+  minSpeed: 3
+  maxSpeed: 5
+  minStamina: 5
+  maxStamina: 10
+  minManeuverability: 130
+  maxManeuverability: 135
